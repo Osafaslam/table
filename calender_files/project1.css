@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    width: 100%;
+    height: 8vh;
+    background-color: black;
+}
+
+.calender{
+   color: white;
+   padding-top: 0.5rem;
+   padding-left: 7rem;
+ }
+
+
+.parent{
+    display: flex;
+    flex-direction: row;
+
+}
+h4{
+    color:azure;
+    padding-left: 3rem;
+
+}
+.demos{
+    padding-top: 0.9em;
+}
+.button{
+    width: 80px;
+    height: 5vh;
+    padding-top: 0.2rem;
+    margin-left:44px;
+    margin-top: 8px;
+    color : white;
+    border-color: aqua;
+    background-color: black;
+
+}
+.version{
+    color: white;
+    padding-left: 13rem;
+    padding-top: 1rem;
+}
+.image{
+    width:36px;
+    height: 5vh;
+    margin-left: 50px;
+    margin-top: 7px;
+}
+.box1{
+    background:linear-gradient(to Right, white,#9ACEFF) ;
+    width: 100%;
+    height: 70vh;
+    background-color: rgb(230,216,216);
+}
+h2{
+    padding-top:5rem;
+    padding-left: 3rem;
+    font-size: 30px;
+
+}
+h1{
+    padding-left: 3rem;
+    padding-top:2rem;
+    font-size: 50px;
+}
+.button1{
+    width:110px;
+    height: 5vh;
+    background-color: blue;
+    border-radius:20px;
+    margin-top: 30px;
+    margin-left: 40px;
+
+}
+.button2{
+    width: 110px;
+    height: 5vh;
+    background-color: darkgoldenrod;
+    border-radius: 20px;
+     margin-top: 30px;
+    margin-left: 10px;
+}
+ .calender_pic{
+     width: 110%;
+     height: 50vh;
+     padding-left: 6rem;
+     padding-top: 5rem;
+     border-color: darkgoldenrod;
+
+ }
+.row{
+    display: flex;
+
+}
+.border{
+    width: 100%;
+    height: 8vh;
+    background-color: darkgoldenrod;
+
+}
+p{
+    display:non;
+}
